@@ -39,10 +39,16 @@ Tất cả dữ liệu người dùng nhập vào đều là string
 Boolean: True hoặc False (1 hoặc 0)
 TOÁN TỬ
 
-Toán tử số học: +, -, *, /, % vd: a + b => +: toán tử, a,b: toán hạng
+Toán tử số học: +, -, *, /, % 
+vd: a + b => +: toán tử, a,b: toán hạng
 Toán tử gán: =; vd: c = a + b;
-Toán tử so sánh: >,<,>=,<=, ==, ===, !=, !== => Toán tử so sánh trả về boolean == : so sánh giá trị === : so sánh giá trị và so sánh cả kiểu dữ liệu
-Toán tử cộng chuỗi: nối chuỗi "hello " + "abc" = "hello abc" "hello" + 5 = "hello5"
+Toán tử so sánh: >,<,>=,<=, ==, ===, !=, !== 
+=> Toán tử so sánh trả về boolean
+== : so sánh giá trị
+=== : so sánh giá trị và so sánh cả kiểu dữ liệu
+Toán tử cộng chuỗi: nối chuỗi: 
+"hello " + "abc" = "hello abc"
+"hello" + 5 = "hello5"
 ép kiểu: đổi chuỗi thành số
 
 parseInt: Đưa về số nguyên
